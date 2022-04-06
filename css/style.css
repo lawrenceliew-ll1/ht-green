@@ -218,6 +218,9 @@ footer {
 }
 
 @media (max-width: 768px) {
+  .container {
+    max-width: 80vw;
+  }
   .navbar li {
     display: block;
   }
